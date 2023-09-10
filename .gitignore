@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SmartTestAutomation/obj/*
+/SmartTestAutomation/bin/*
+/SmartTestAutomation/.vs/*
+/SmartTestAutomation.Core/obj/*
+/SmartTestAutomation.Core/bin/*
+/SmartTestAutomation.Core/.vs/*
+/SmartTestAutomation.Desktop/obj/*
+/SmartTestAutomation.Desktop/bin/*
+/SmartTestAutomation.Desktop/.vs/*
+/.vs/*
